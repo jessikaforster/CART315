@@ -1,39 +1,30 @@
 Jessika Forster
 
-Prototype 3
+Prototype 4
 
 Design Hypothesis:
 
-* As I am creating my prototypes, I am doing my best to come up with ideas that could be expanded on to create a larger concept and a game that could consist of a variety of levels at varying difficulties. That being said, I created this game where the user must carefully make their way through a maze-like path in order to reach the center and collect the gem. If the user goes off the path even just slightly, they will fall off of the map and must restart. Due to how narrow the path is, the player is required to pay very close attention to every movement they make. Also, there are spaces and steps between certain platforms which forces the user to always be aware of what is coming up next in their path if they wish to make it to the centre. In order to add to the difficulty of the game, I am considering adding a countdown as well as enemies that would be placed on the path in various spots. All that to say, the narrow path requires the user to pay close attention to their every movement and there is a lot of potential to add more to the game to elevate it and make it more difficult. Most importantly, my design hypothesis is whether the user will cheat or not, I anticipate that they will follow the path I have designated.
+* While creating this prototype, I pondered over what would motivate the user the most to reach the finish line and I realized, it is games that frustrate them. Although the concept is simple, the user can fall to their death with the blink of an eye as they see the goal right in front of them which I believe would motivate them even more to keep trying over and over again until they are successful. The concept is that the user must move forward and choose either the left or right side to let themselves walk past and hope that they land on another platform in order to be one step closer to the finish line. If they fail to land on a platform, they must restart. If this idea is chosen for my final game, I will create levels where the concept remains the same, but there are variations that make it more difficult for the user to reach the final platform. I also think it would be interesting to play with colour in leading the user to take certain paths, there is a lot of potential with this idea to create a game that would engage the user until the very end.
 
 Playtest Comments:
 
-* Bigger spaces between paths
-* Add texture to the floor to make it easier to tell when character is jumping
-* Jingle sound when you get the gem
-* People that think of cheating discover something special, thinking outside the box gets rewarded
-* Difficulty level is good
-* Vertical navigation
-* Larger platforms to take a break
-* Pickable items, spots that increase speed, invisible time (floating to skip ahead)
-* Gust of wind tries to blow you off (make game as difficult as possible)
-* Jumping view is not great
-* Vertical progression, falling into another maze rather than dying, progressively going to the top
-* Environmental changes
-* Don’t immediately die when you fall
-* Life system
-* Music (depending on level)
-* Camera angle remains in same spot
-* Cheating as game meaning
-* 3rd person view
-* Respawn after a few seconds
-* Long level, add checkpoints
-* Moving platforms
-* Collect the diamond to level up
-* Limited number of blocks to jump on, strategize number of spots you can go on to win
-* Life bar
-* Make sure they follow path using diamonds on path that would raise their health back, prevents cheating
+* Add more variation between the platforms
+* Fast paced music would work with the concept
+* Consider using a different colour palette
+* Find a way for user to be unable to peak down
+* Add time limit everytime user lands on new platform
+* Make the platforms move
+* Respawn after falling
+* Collecting diamond brings user to next level
+* Add hearts for the user
+* View from the top instead of first person
+* Circus theme could be interesting
+* Have items user can pick up
+* Add hints to give user better chance of picking correct side
+* Difficulty level is good, just frustrating enough
+* Adding more visuals to make game more attractive
+* Add checkpoints on longer levels
 
 Design hypothesis answer:
 
-* Every playtester cheated or tried to cheat which means I must make it more difficult to find ways to make it to the goal faster
+* Despite the simple concept, playtesters became frustrated as they failed to reach the finish line which motivated them to continue more and more.
