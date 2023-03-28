@@ -1,39 +1,35 @@
 Jessika Forster
 
-Prototype 3
+Iterative Prototype 1
+
+Changes based on previous playtest:
+
+* Based on the previous playtest of this game, the primary change that I made was enlarging the map. Doing so would make it nearly impossible for the user to take any shortcuts in order to reach the checkpoint quicker than intended. Another benefit of enlarging the map is that the user can no longer see the finish line which adds a sense of suspense and forces them to ponder what is ahead. The size of the map allows the user to spend more time within the level and facing a higher number of challenges before they can reach the finish line.
 
 Design Hypothesis:
 
-* As I am creating my prototypes, I am doing my best to come up with ideas that could be expanded on to create a larger concept and a game that could consist of a variety of levels at varying difficulties. That being said, I created this game where the user must carefully make their way through a maze-like path in order to reach the center and collect the gem. If the user goes off the path even just slightly, they will fall off of the map and must restart. Due to how narrow the path is, the player is required to pay very close attention to every movement they make. Also, there are spaces and steps between certain platforms which forces the user to always be aware of what is coming up next in their path if they wish to make it to the centre. In order to add to the difficulty of the game, I am considering adding a countdown as well as enemies that would be placed on the path in various spots. All that to say, the narrow path requires the user to pay close attention to their every movement and there is a lot of potential to add more to the game to elevate it and make it more difficult. Most importantly, my design hypothesis is whether the user will cheat or not, I anticipate that they will follow the path I have designated.
+* The prototype I decided to choose is my third one which is a maze game. The user begins at the starting point with no way out behind them therefore, they must move forward in hopes of finding the exit. In order to make it more difficult, there are 2 paths they could embark on, but only 1 leads them to the diamond, which must be reached to move on to the levels that will be added later on. There are spaces where the user must jump otherwise, they will fall through, and they also must jump to avoid enemies at certain points. As the path is very narrow, the user must stay focused throughout the entire game in order to ensure that they are aware of what is in front of them while making sure that they do not fall off the side of the path. Finally, my design hypothesis is whether the users will become too frustrated once they go down the wrong route to go back to the start and take the correct path.
 
 Playtest Comments:
 
-* Bigger spaces between paths
-* Add texture to the floor to make it easier to tell when character is jumping
-* Jingle sound when you get the gem
-* People that think of cheating discover something special, thinking outside the box gets rewarded
-* Difficulty level is good
-* Vertical navigation
-* Larger platforms to take a break
-* Pickable items, spots that increase speed, invisible time (floating to skip ahead)
-* Gust of wind tries to blow you off (make game as difficult as possible)
-* Jumping view is not great
-* Vertical progression, falling into another maze rather than dying, progressively going to the top
-* Environmental changes
-* Don’t immediately die when you fall
-* Life system
-* Music (depending on level)
-* Camera angle remains in same spot
-* Cheating as game meaning
-* 3rd person view
-* Respawn after a few seconds
-* Long level, add checkpoints
-* Moving platforms
-* Collect the diamond to level up
-* Limited number of blocks to jump on, strategize number of spots you can go on to win
-* Life bar
-* Make sure they follow path using diamonds on path that would raise their health back, prevents cheating
+*	Should add hints for user to know earlier on when they should turn back
+*	Add more variations throughout path, bumps, more enemies
+*	Respawn when you fall off path
+*	View from above might be better
+*	Add moving platforms
+*	Make scene brighter
+*	Add a life bar
+*	Add coins or diamonds for user to collect along the way
+*	Level up when diamond is collected
+*	Add spots that the user might land on if they fall off
+*	Add music
+*	Add time limit
+*	Add sound effects when jumping, collecting diamond, etc.
+
+Reflection on playtest results:
+
+* I learned that in order to keep the user focused and interested in seeing what is going to appear next, more obstacles and changes within the terrain must be added. That being said, the changes I would make to this prototype would be adding bumps in the path, adding more enemies to avoid, adding a form of currency to collect and other differences within the trail that would elevate the gaming experience.
 
 Design hypothesis answer:
 
-* Every playtester cheated or tried to cheat which means I must make it more difficult to find ways to make it to the goal faster
+* The playtesters did become frustrated once they got to the end of the wrong path and simply decided to jump off the path and click restart.
